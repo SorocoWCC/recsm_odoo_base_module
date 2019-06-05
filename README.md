@@ -1,2 +1,2 @@
-# RECSM Base Odoo12 module scaffold
-Odoo interface to get information from the Database via API
+# RECSM Odoo 12 base
+Odoo base files to develop odoo 12 modules
